@@ -33,3 +33,12 @@ h5 {
     height: auto;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.781);
 }
+
+a {
+    color: rgb(216, 180, 20);
+}
+
+a:hover {
+    color: rgb(60, 60, 185);
+    text-decoration: none;
+}
