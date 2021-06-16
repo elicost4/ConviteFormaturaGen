@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(to right, rgb(204, 14, 147) , rgb(136, 54, 184));
+    width: 100%;
+    height: 100%;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    font-family:Helvetica, Arial, sans-serif, sans-serif;
+}
+
+h3 {
+    color:rgb(216, 180, 20);
+    font-size: 30px;
+    text-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.603)
+    /* background-image: url(https://media1.giphy.com/media/2SYpZ92iLQsF6QZl5u/giphy.gif?cid=ecf05e473ignef0lvxu4owupfrqcfnwtxw0znnlgpawzz02d&rid=giphy.gif&ct=g);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+}
+
+h5 {
+    font-size: 20px;
+    text-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.603)
+}
+
+.cor-texto {
+    color: rgb(216, 180, 20);
+    font-style: oblique;
+}
+
+.img-fluid {
+    width: auto;
+    height: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.781);
+}
